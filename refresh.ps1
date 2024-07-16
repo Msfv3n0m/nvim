@@ -1,1 +1,1 @@
-cp -r nvim $ENV:USERPROFILE/AppData/Local/nvim 
+cp -r -force nvim $ENV:USERPROFILE/AppData/Local/nvim 
