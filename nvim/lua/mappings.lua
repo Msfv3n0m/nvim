@@ -11,5 +11,6 @@ vim.keymap.set('n', '<C-l>', '<cmd>:bn<cr>')
 vim.keymap.set('n', '<C-h>', '<cmd>:bp<cr>')
 vim.keymap.set('n', '<leader>l', '<cmd>:tabnext<cr>')
 vim.keymap.set('n', '<leader>h', '<cmd>:tabprevious<cr>')
+vim.keymap.set('n', '<leader>v', '<C-v>')
 
 -- map({ "n", "i", "v" }, "<C-s>", "<cmd> w <cr>")
